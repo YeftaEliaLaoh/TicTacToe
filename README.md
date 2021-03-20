@@ -1,0 +1,3 @@
+# TicTacToe
+
+execute gradle bootRun
